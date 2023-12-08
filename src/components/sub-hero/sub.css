@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'book';
+    src: url('../../assets/RecklessNeue-Book.ttf')
+}
+
+.text-container{
+    margin: 0px 357.5px 60px 358.5px;
+}
+
+.text{
+    font-family: book;
+    color: #131212;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 150%;
+}
